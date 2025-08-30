@@ -38,4 +38,3 @@ Below is a preview of the sales dashboard:
 
 ---
 For any questions or feedback, please contact the repository owner.
-# PowerBI-Sales-Dashboard
